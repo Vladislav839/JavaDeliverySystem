@@ -1,0 +1,20 @@
+[
+  {
+    "deliveryId": 1,
+    "customerId": 2,
+    "date": {
+      "date": {
+        "year": 2021,
+        "month": 2,
+        "day": 28
+      },
+      "time": {
+        "hour": 11,
+        "minute": 24,
+        "second": 20,
+        "nano": 588967500
+      }
+    },
+    "totalPrice": 57.5
+  }
+]

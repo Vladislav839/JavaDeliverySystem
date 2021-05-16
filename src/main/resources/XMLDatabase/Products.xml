@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <productId>1</productId>
+        <name>Хлеб 200 гр.</name>
+        <price>5.75</price>
+        <count>46</count>
+    </product>
+    <product>
+        <productId>2</productId>
+        <name>Молоко 200 гр.</name>
+        <price>7.5</price>
+        <count>26</count>
+    </product>
+    <product>
+        <productId>3</productId>
+        <name>Шоколад</name>
+        <price>10.75</price>
+        <count>10</count>
+    </product>
+</products>

@@ -1,0 +1,23 @@
+{
+  "by.bsu.deliveryshop.data.DaoClasses.CsvDao" : {
+    "CustomersPath" : "\\CsvDatabase\\Customers.csv",
+    "SellersPath" : "\\CsvDatabase\\Sellers.csv",
+    "ProductsPath" : "\\CsvDatabase\\Products.csv",
+    "DeliveriesPath" : "\\CsvDatabase\\Deliveries.csv",
+    "DeliveryProductsPath" : "\\CsvDatabase\\DeliveryProducts.csv"
+  },
+  "by.bsu.deliveryshop.data.DaoClasses.XmlDao" : {
+    "CustomersPath" : "\\XMLDatabase\\Customers.xml",
+    "SellersPath" : "\\XMLDatabase\\Sellers.xml",
+    "ProductsPath" : "\\XMLDatabase\\Products.xml",
+    "DeliveriesPath" : "\\XMLDatabase\\Deliveries.xml",
+    "DeliveryProductsPath" : "\\XMLDatabase\\DeliveryProducts.xml"
+  },
+  "by.bsu.deliveryshop.data.DaoClasses.JsonDao" : {
+    "CustomersPath" : "\\JsonDatabase\\Customers.json",
+    "SellersPath" : "\\JsonDatabase\\Sellers.json",
+    "ProductsPath" : "\\JsonDatabase\\Products.json",
+    "DeliveriesPath" : "\\JsonDatabase\\Deliveries.json",
+    "DeliveryProductsPath" : "\\JsonDatabase\\DeliveryProducts.json"
+  }
+}

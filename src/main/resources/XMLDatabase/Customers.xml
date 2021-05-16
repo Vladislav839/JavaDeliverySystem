@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <customer>
+        <name>user1</name>
+        <password>1234</password>
+        <customerId>2</customerId>
+        <address>example</address>
+    </customer>
+</customers>

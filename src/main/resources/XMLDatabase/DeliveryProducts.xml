@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<deliveryProducts>
+    <deliveryProduct>
+        <deliveryProductId>1</deliveryProductId>
+        <productId>2</productId>
+        <deliveryId>1</deliveryId>
+        <productCount>2</productCount>
+    </deliveryProduct>
+</deliveryProducts>

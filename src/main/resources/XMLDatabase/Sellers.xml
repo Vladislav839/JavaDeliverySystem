@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sellers>
+    <seller>
+        <name>admin</name>
+        <password>12345</password>
+        <sellerId>1</sellerId>
+    </seller>
+</sellers>

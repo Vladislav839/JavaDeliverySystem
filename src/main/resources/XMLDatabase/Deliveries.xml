@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<deliveries>
+    <delivery>
+        <deliveryId>1</deliveryId>
+        <customerId>2</customerId>
+        <date>2021-03-01 23:32:53</date>
+        <totalPrice>15.0</totalPrice>
+    </delivery>
+</deliveries>
